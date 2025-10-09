@@ -2,6 +2,9 @@
 
 App for **ESP32-S3 with 7" display**, featuring a modern UI and Wi-Fi setup.
 
+Figma:
+https://www.figma.com/design/Ip6oIWuFF2If9nQGUtZYsv/Pix-Pay-App?node-id=0-1&t=iR64x8HNjE3knebx-1
+
 ---
 
 ## 🧩 Board
@@ -36,6 +39,11 @@ Recommended version: **2.0.14**
 2. Install **ESP32 2.0.14** in Board Manager.  
 3. Install the libraries above.  
 4. Upload the code and enjoy!
+
+<img width="692" height="786" alt="ArduinoConfig" src="https://github.com/user-attachments/assets/56aa6ff2-455c-431f-bba3-3226412b90ab" />
+
+<img width="1911" height="1034" alt="image" src="https://github.com/user-attachments/assets/97dc77fc-8155-4147-a0ca-911c96df9a7d" />
+
 
 ---
 
